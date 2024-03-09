@@ -14,10 +14,11 @@
 </p>
 
 ### 🔭 I’m currently working on
-- Frontend of a planner for daily use, with tasks, events and anniversaries.
+- A password generator made with React.
   
 ### 🌱 I’m currently learning
 - React, Node.js (https://fullstackopen.com/)
+- Python testing with unittest
   
 ### ⚡ Fun fact:
 - Whenever I can, I add cat pictures to my apps 🐱
