@@ -14,7 +14,8 @@
 </p>
 
 ### 🔭 I’m currently working on
-- A password generator made with React.
+
+- A view of Sesame's work stats of the logged user.
   
 ### 🌱 I’m currently learning
 - React, Node.js (https://fullstackopen.com/)
