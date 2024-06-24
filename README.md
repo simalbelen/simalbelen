@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="assets/images/simalbelen.png" />
+   <!-- <img align="center" width="200" src="assets/images/simalbelen.png" /> -->
    <h3 align="center">
         Hi there 👋! I'm Belén Simal 
         <br/>
